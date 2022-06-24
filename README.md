@@ -1,4 +1,6 @@
-# free-learning-resources
+# Open Learning Resources
+
+A curated list of free/open source resources for you to learn Computer Science.
 
 ## Python
 
