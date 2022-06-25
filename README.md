@@ -24,8 +24,21 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - afshinea/stanford-cs-229-machine-learning: VIP cheatsheets for Stanford&#39;s CS 229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [GitHub - ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [GitHub - rasbt/python-machine-learning-book: The &quot;Python Machine Learning (1st edition)&quot; book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
+- [GitHub - datasciencemasters/go: The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
+- [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 - [GitHub - instillai/machine-learning-course: Machine Learning Course with Python:](https://github.com/instillai/machine-learning-course)
 - [GitHub - ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+## Dataset
+
+- [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [GitHub - JovianML/opendatasets: A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.](https://github.com/JovianML/opendatasets)
+- [GitHub - huggingface/datasets: 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools](https://github.com/huggingface/datasets)
+- [GitHub - GoogleTrends/data: An index of all open-source data](https://github.com/GoogleTrends/data)
+- [GitHub - fighting41love/funNLP: Chinese NLB datasets](https://github.com/fighting41love/funNLP)
 
 ## Open Source
 
