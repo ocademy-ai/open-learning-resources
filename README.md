@@ -9,7 +9,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.](https://github.com/huangsam/ultimate-python)
 - [GitHub - satwikkansal/wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
 - [GitHub - wilfredinni/python-cheatsheet: Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)](https://github.com/wilfredinni/python-cheatsheet)
-- [fullstackpython](https://www.fullstackpython.com/)
+- [GitHub - mattmakai/fullstackpython.com: Full Stack Python source with Pelican, Bootstrap and Markdown.](https://github.com/mattmakai/fullstackpython.com)
 - [GitHub - jerry-git/learn-python3: Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3)
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
@@ -17,6 +17,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Machine Learning
 
 - [GitHub - trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
+- [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [GitHub - EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [GitHub - Yorko/mlcourse.ai: Open Machine Learning Course](https://github.com/Yorko/mlcourse.ai)
 - [GitHub - trekhleb/machine-learning-experiments: 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/trekhleb/machine-learning-experiments)
