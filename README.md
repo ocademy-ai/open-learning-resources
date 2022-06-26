@@ -9,13 +9,15 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.](https://github.com/huangsam/ultimate-python)
 - [GitHub - satwikkansal/wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
 - [GitHub - wilfredinni/python-cheatsheet: Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)](https://github.com/wilfredinni/python-cheatsheet)
-- [GitHub - mattmakai/fullstackpython.com: Full Stack Python source with Pelican, Bootstrap and Markdown.](https://github.com/mattmakai/fullstackpython.com)
+  - [GitHub - mattmakai/fullstackpython.com: Full Stack Python source with Pelican, Bootstrap and Markdown.](https://github.com/mattmakai/fullstackpython.com)
 - [GitHub - jerry-git/learn-python3: Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3)
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
 
 ## Machine Learning
 
+- [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+- [GitHub - d2l-ai/d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.](https://github.com/d2l-ai/d2l-en)
 - [GitHub - trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
 - [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [GitHub - EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
@@ -29,6 +31,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 - [GitHub - instillai/machine-learning-course: Machine Learning Course with Python:](https://github.com/instillai/machine-learning-course)
 - [GitHub - ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [GitHub - eugeneyan/applied-ml: 📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.](https://github.com/eugeneyan/applied-ml)
+- [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5](https://github.com/kailashahirwar/cheatsheets-ai)
 
 ## Dataset
 
