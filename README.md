@@ -17,6 +17,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Machine Learning
 
 - [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+- [GitHub - microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
 - [GitHub - d2l-ai/d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.](https://github.com/d2l-ai/d2l-en)
 - [GitHub - trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
 - [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
