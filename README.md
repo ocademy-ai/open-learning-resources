@@ -46,6 +46,18 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - huggingface/datasets: 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools](https://github.com/huggingface/datasets)
 - [GitHub - GoogleTrends/data: An index of all open-source data](https://github.com/GoogleTrends/data)
 - [GitHub - fighting41love/funNLP: Chinese NLB datasets](https://github.com/fighting41love/funNLP)
+- [Registry of Open Data on AWS](https://registry.opendata.aws/)
+- [Data Portals - A Comprehensive List of Open Data](http://dataportals.org/)
+- [Open Data Inception - 2600+ Open Data Portals Around the World](https://opendatainception.io/)
+- [data.gov](https://catalog.data.gov/dataset)
+- [Database - Eurostat](https://ec.europa.eu/eurostat/data/database)
+- [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
+- [FAIRsharing - # A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.](https://fairsharing.org/)
+- [Academic Torrents - Making over 127.15TB of research data available!](https://academictorrents.com/)
+- [DataHub - help organizations of all sizes to design, develop and scale  
+  solutions to manage their data and unleash its potential](https://datahub.io/)
+- [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
 
 ## Open Source
 
