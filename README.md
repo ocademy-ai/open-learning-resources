@@ -49,7 +49,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
 - [Data Portals - A Comprehensive List of Open Data](http://dataportals.org/)
 - [Open Data Inception - 2600+ Open Data Portals Around the World](https://opendatainception.io/)
-- [data.gov](https://catalog.data.gov/dataset)
+- [data.gov - The home of the U.S. Government’s open data](https://catalog.data.gov/dataset)
 - [Database - Eurostat](https://ec.europa.eu/eurostat/data/database)
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [FAIRsharing - # A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.](https://fairsharing.org/)
@@ -58,6 +58,7 @@ A curated list of free/open source resources for you to learn Computer Science.
   solutions to manage their data and unleash its potential](https://datahub.io/)
 - [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
 
 ## Open Source
 
