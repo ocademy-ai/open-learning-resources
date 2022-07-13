@@ -67,6 +67,14 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Open Source Guides](https://opensource.guide/)
 - [choosealicense - an open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.](https://choosealicense.com/)
 
+## Frontend
+- [Github - microsoft/Web-Dev-For-Beginners: About 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Github - bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS](https://github.com/bradtraversy/50projects50days)
+- [Github - h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [Egghead.io - The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Css Tricks - Css Series Tutorials](https://css-tricks.com/guides/)
+- [Scrimba - Learn React for free](https://scrimba.com/learn/learnreact)
 ## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
