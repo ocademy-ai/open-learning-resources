@@ -36,7 +36,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - instillai/machine-learning-course: Machine Learning Course with Python:](https://github.com/instillai/machine-learning-course)
 - [GitHub - ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [GitHub - eugeneyan/applied-ml: 📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.](https://github.com/eugeneyan/applied-ml)
-- [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5](https://github.com/kailashahirwar/cheatsheets-ai)
+- [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
+- [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
 
 ## Dataset
 
@@ -70,3 +71,4 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
+- [AltexSoft - is a Travel and Hospitality Technology Consulting company](https://www.altexsoft.com/)
