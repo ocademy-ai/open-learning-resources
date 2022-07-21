@@ -75,6 +75,12 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Egghead.io - The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Css Tricks - Css Series Tutorials](https://css-tricks.com/guides/)
 - [Scrimba - Learn React for free](https://scrimba.com/learn/learnreact)
+- [ui.dev - The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
+- [Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!](https://frontendmasters.com/)
+- [Udemy - Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
+- [Coursera - Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
+- [pluralsight - Node.js 12: Getting Started](https://www.pluralsight.com/courses/nodejs-getting-started)
+- [NestJS - Official NestJS Courses - Learn to build Node.js apps at any scale](https://courses.nestjs.com/)
 ## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
