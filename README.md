@@ -14,6 +14,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
 - [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
+- [GitHub - TomasBeuzen/python-programming-for-data-science: Content from the University of British Columbia&#39;s Master of Data Science course DSCI 511.](https://github.com/TomasBeuzen/python-programming-for-data-science)
 
 ## Machine Learning
 
@@ -40,6 +41,9 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - eugeneyan/applied-ml: 📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.](https://github.com/eugeneyan/applied-ml)
 - [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 - [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
+- [GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [GitHub - DataTalksClub/data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+- [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 
 ## Dataset
 
