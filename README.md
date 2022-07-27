@@ -46,6 +46,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - DataTalksClub/data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 - [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
+- [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
 
 ## Dataset
 
