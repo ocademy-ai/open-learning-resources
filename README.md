@@ -76,6 +76,12 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [InsideAIML](https://insideaiml.com/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
+## Visualization 
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+- [Embedding Projector](http://projector.tensorflow.org/)
+- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+
+
 ## Open Source
 
 - [Open Source Guides](https://opensource.guide/)
