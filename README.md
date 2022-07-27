@@ -9,7 +9,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.](https://github.com/huangsam/ultimate-python)
 - [GitHub - satwikkansal/wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
 - [GitHub - wilfredinni/python-cheatsheet: Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)](https://github.com/wilfredinni/python-cheatsheet)
-  - [GitHub - mattmakai/fullstackpython.com: Full Stack Python source with Pelican, Bootstrap and Markdown.](https://github.com/mattmakai/fullstackpython.com)
+- [GitHub - mattmakai/fullstackpython.com: Full Stack Python source with Pelican, Bootstrap and Markdown.](https://github.com/mattmakai/fullstackpython.com)
 - [GitHub - jerry-git/learn-python3: Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3)
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
