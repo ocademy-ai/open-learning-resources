@@ -74,6 +74,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 ## Online courses
 - [InsideAIML](https://insideaiml.com/)
+- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
 ## Open Source
 
