@@ -66,11 +66,14 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [re3data - Registry of Research Data Repositories](http://www.re3data.org/)
 - [FAIRsharing - # A curated, informative and educational resource on data and metadata standards, inter-related to databases and data policies.](https://fairsharing.org/)
 - [Academic Torrents - Making over 127.15TB of research data available!](https://academictorrents.com/)
-- [DataHub - help organizations of all sizes to design, develop and scale  
-  solutions to manage their data and unleash its potential](https://datahub.io/)
+- [DataHub - help organizations of all sizes to design, develop and scale solutions to manage their data and unleash its potential](https://datahub.io/)
 - [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
+
+
+## Online courses
+- [InsideAIML](https://insideaiml.com/)
 
 ## Open Source
 
