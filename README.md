@@ -15,6 +15,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
 - [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 - [GitHub - TomasBeuzen/python-programming-for-data-science: Content from the University of British Columbia&#39;s Master of Data Science course DSCI 511.](https://github.com/TomasBeuzen/python-programming-for-data-science)
+- [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
 
 ## Machine Learning
 
@@ -44,6 +45,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [GitHub - DataTalksClub/data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 - [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 
 ## Dataset
 
@@ -75,20 +77,35 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [choosealicense - an open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.](https://choosealicense.com/)
 
 ## Frontend
+
 - [Github - microsoft/Web-Dev-For-Beginners: About 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
+
 - [Github - bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS](https://github.com/bradtraversy/50projects50days)
+
 - [Github - h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
 - [Frontend Roadmap](https://roadmap.sh/frontend)
+
 - [Egghead.io - The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
 - [Css Tricks - Css Series Tutorials](https://css-tricks.com/guides/)
+
 - [Scrimba - Learn React for free](https://scrimba.com/learn/learnreact)
+
 - [ui.dev - The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
+
 - [Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!](https://frontendmasters.com/)
+
 - [Udemy - Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
+
 - [Coursera - Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
+
 - [pluralsight - Node.js 12: Getting Started](https://www.pluralsight.com/courses/nodejs-getting-started)
+
 - [NestJS - Official NestJS Courses - Learn to build Node.js apps at any scale](https://courses.nestjs.com/)
-## Other
+  
+  ## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
+
 - [AltexSoft - is a Travel and Hospitality Technology Consulting company](https://www.altexsoft.com/)
