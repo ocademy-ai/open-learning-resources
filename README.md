@@ -72,14 +72,31 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
 
 
-## Online courses
+## Paid courses
 - [InsideAIML](https://insideaiml.com/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+
+
+## University courses
+- [University of Illinois, Spring 2021 CS 498 Introduction to Deep Learning](https://slazebni.cs.illinois.edu/spring21/)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [U Michigan EECS 498: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Princeton COS 495: Introduction to Deep Learning](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
+- [UT Austin CS 342: Deep Learning](https://www.philkr.net/cs342/)
+- [IDIAP EE559: Deep Learning](https://fleuret.org/ee559/)
+- [ENS Deep Learning: Do It Yourself](http://www.di.ens.fr/~lelarge/dldiy/)
+- [U of I IE 534: Deep Learning](https://courses.engr.illinois.edu/ie534/fa2019/)
+- [MIT Structure and Interpretation of Deep Networks](http://sidn.csail.mit.edu/)
+- [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 
 ## Visualization 
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 - [Embedding Projector](http://projector.tensorflow.org/)
 - [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+
+
 
 
 ## Open Source
