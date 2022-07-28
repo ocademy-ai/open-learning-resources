@@ -91,6 +91,14 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 
+## Textbooks 
+
+- [Deep Learning by I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org/)
+- [Michael Nielsen's online book on Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
+
+
 ## Visualization 
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 - [Embedding Projector](http://projector.tensorflow.org/)
