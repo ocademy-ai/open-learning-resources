@@ -47,6 +47,18 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 - [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
+- [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
+
+### Online courses
+
+- [InsideAIML](https://insideaiml.com/)
+- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+
+### Visualization
+
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+- [Embedding Projector](http://projector.tensorflow.org/)
+- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
 ## Dataset
 
@@ -70,17 +82,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
-
-
-## Online courses
-- [InsideAIML](https://insideaiml.com/)
-- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
-
-## Visualization 
-- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
-- [Embedding Projector](http://projector.tensorflow.org/)
-- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
-
 
 ## Open Source
 
