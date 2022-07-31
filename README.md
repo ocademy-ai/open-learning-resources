@@ -50,14 +50,32 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
 - [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
 
-### ### Book
+### Book
 
 - [GitHub - ajaymache/machine-learning-yearning: Machine Learning Yearning book by 🅰️𝓷𝓭𝓻𝓮𝔀 🆖](https://github.com/ajaymache/machine-learning-yearning)
+- [Deep Learning by I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org/)
+- [Michael Nielsen's online book on Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
 
 ### Online courses
 
+- [University of Illinois, Spring 2021 CS 498 Introduction to Deep Learning](https://slazebni.cs.illinois.edu/spring21/)
 - [InsideAIML](https://insideaiml.com/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [U Michigan EECS 498: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Princeton COS 495: Introduction to Deep Learning](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
+- [UT Austin CS 342: Deep Learning](https://www.philkr.net/cs342/)
+- [IDIAP EE559: Deep Learning](https://fleuret.org/ee559/)
+- [ENS Deep Learning: Do It Yourself](http://www.di.ens.fr/~lelarge/dldiy/)
+- [U of I IE 534: Deep Learning](https://courses.engr.illinois.edu/ie534/fa2019/)
+- [MIT Structure and Interpretation of Deep Networks](http://sidn.csail.mit.edu/)
+- [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+- [InsideAIML](https://insideaiml.com/)
+  - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
 ### Visualization
 
