@@ -23,6 +23,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
 - [GitHub - d2l-ai/d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.](https://github.com/d2l-ai/d2l-en)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course)
+- [GitHub - m2dsupsdlclass/lectures-labs: Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris](https://github.com/m2dsupsdlclass/lectures-labs)
 - [GitHub - awslabs/amazon-sagemaker-mlops-workshop: Machine Learning Ops Workshop with SageMaker: lab guides and materials.](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 - [GitHub - trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
@@ -47,6 +48,22 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 - [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
+- [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
+
+### ### Book
+
+- [GitHub - ajaymache/machine-learning-yearning: Machine Learning Yearning book by 🅰️𝓷𝓭𝓻𝓮𝔀 🆖](https://github.com/ajaymache/machine-learning-yearning)
+
+### Online courses
+
+- [InsideAIML](https://insideaiml.com/)
+- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+
+### Visualization
+
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+- [Embedding Projector](http://projector.tensorflow.org/)
+- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
 ## Dataset
 
@@ -70,42 +87,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
-
-
-## Paid courses
-- [InsideAIML](https://insideaiml.com/)
-- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
-
-
-## University courses
-- [University of Illinois, Spring 2021 CS 498 Introduction to Deep Learning](https://slazebni.cs.illinois.edu/spring21/)
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [U Michigan EECS 498: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
-- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-- [Princeton COS 495: Introduction to Deep Learning](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
-- [UT Austin CS 342: Deep Learning](https://www.philkr.net/cs342/)
-- [IDIAP EE559: Deep Learning](https://fleuret.org/ee559/)
-- [ENS Deep Learning: Do It Yourself](http://www.di.ens.fr/~lelarge/dldiy/)
-- [U of I IE 534: Deep Learning](https://courses.engr.illinois.edu/ie534/fa2019/)
-- [MIT Structure and Interpretation of Deep Networks](http://sidn.csail.mit.edu/)
-- [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
-
-## Textbooks 
-
-- [Deep Learning by I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org/)
-- [Michael Nielsen's online book on Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
-
-
-## Visualization 
-- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
-- [Embedding Projector](http://projector.tensorflow.org/)
-- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
-
-
-
 
 ## Open Source
 
