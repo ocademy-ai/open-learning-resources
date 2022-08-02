@@ -82,6 +82,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 - [Embedding Projector](http://projector.tensorflow.org/)
 - [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+- [Visualizing Central Limit Theorem](https://clt-streamlit-heroku.herokuapp.com/)
 
 ## Dataset
 
