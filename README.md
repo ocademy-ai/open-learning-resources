@@ -80,6 +80,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 ### MNIST
 
 - [MNIST extended](https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/)
+- [qmnist](https://github.com/facebookresearch/qmnist)
 
 ### Visualization
 
