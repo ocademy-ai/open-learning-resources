@@ -77,6 +77,10 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [InsideAIML](https://insideaiml.com/)
   - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
+### MNIST
+
+- [MNIST extended](https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/)
+
 ### Visualization
 
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
