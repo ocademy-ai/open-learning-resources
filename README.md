@@ -77,6 +77,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [InsideAIML](https://insideaiml.com/)
 - [codebasics](https://codebasics.io/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+- [Berkeley CS 189/289A Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s21/)
 
 ### Artical
 
