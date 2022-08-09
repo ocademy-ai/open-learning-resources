@@ -133,7 +133,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [pluralsight - Node.js 12: Getting Started](https://www.pluralsight.com/courses/nodejs-getting-started)
 - [NestJS - Official NestJS Courses - Learn to build Node.js apps at any scale](https://courses.nestjs.com/)
   
-  ## Other
+## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
 - [AltexSoft - is a Travel and Hospitality Technology Consulting company](https://www.altexsoft.com/)
