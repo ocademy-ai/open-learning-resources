@@ -75,7 +75,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Berkeley CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [InsideAIML](https://insideaiml.com/)
-  - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
+- [codebasics](https://codebasics.io/)
+- [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
 ### Artical
 
