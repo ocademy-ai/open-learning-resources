@@ -58,7 +58,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
 
-### Online courses
+### Online course
 
 - [University of Illinois, Spring 2021 CS 498 Introduction to Deep Learning](https://slazebni.cs.illinois.edu/spring21/)
 - [InsideAIML](https://insideaiml.com/)
@@ -77,7 +77,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [InsideAIML](https://insideaiml.com/)
   - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 
-### MNIST
+### Artical
 
 - [MNIST extended](https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/)
 - [qmnist](https://github.com/facebookresearch/qmnist)
