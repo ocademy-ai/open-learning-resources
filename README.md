@@ -29,6 +29,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
 - [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [GitHub - EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [GitHub - graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 - [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
 - [GitHub - Yorko/mlcourse.ai: Open Machine Learning Course](https://github.com/Yorko/mlcourse.ai)
 - [GitHub - trekhleb/machine-learning-experiments: 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo](https://github.com/trekhleb/machine-learning-experiments)
@@ -77,7 +78,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [InsideAIML](https://insideaiml.com/)
 - [codebasics](https://codebasics.io/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
-- [Berkeley CS 189/289A Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189s21/)
 
 ### Artical
 
@@ -134,7 +134,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Coursera - Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
 - [pluralsight - Node.js 12: Getting Started](https://www.pluralsight.com/courses/nodejs-getting-started)
 - [NestJS - Official NestJS Courses - Learn to build Node.js apps at any scale](https://courses.nestjs.com/)
-  
+
 ## Other
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
