@@ -24,7 +24,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - datasciencemasters/go: The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
 * [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 * [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
-* [GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
 * [GitHub - DataTalksClub/data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 
 ## Machine Learning
