@@ -15,7 +15,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
 - [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 
-## Data Science
+## Data Science & Engineering
 
 * [GitHub - TomasBeuzen/python-programming-for-data-science: Content from the University of British Columbia's Master of Data Science course DSCI 511.](https://github.com/TomasBeuzen/python-programming-for-data-science)
 * [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
@@ -25,6 +25,11 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 * [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn)
 * [GitHub - DataTalksClub/data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+* [GitHub - donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [GitHub - ossu/data-science: Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
+* [GitHub - joelgrus/data-science-from-scratch: code for Data Science From Scratch book](https://github.com/joelgrus/data-science-from-scratch)
+* [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
+* [GitHub - andkret/Cookbook: The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 ## Machine Learning
 
