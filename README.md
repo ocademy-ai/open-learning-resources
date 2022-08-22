@@ -13,7 +13,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - jerry-git/learn-python3: Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3)
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
-- [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 
 ## Data Science & Engineering
 
@@ -30,6 +29,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - joelgrus/data-science-from-scratch: code for Data Science From Scratch book](https://github.com/joelgrus/data-science-from-scratch)
 * [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 * [GitHub - andkret/Cookbook: The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+* [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 
 ## Machine Learning
 
