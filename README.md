@@ -17,7 +17,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Data Science & Engineering
 
 * [GitHub - TomasBeuzen/python-programming-for-data-science: Content from the University of British Columbia's Master of Data Science course DSCI 511.](https://github.com/TomasBeuzen/python-programming-for-data-science)
-* [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
 * [GitHub - microsoft/Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
 * [GitHub - jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [GitHub - datasciencemasters/go: The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
