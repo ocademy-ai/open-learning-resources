@@ -93,6 +93,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [codebasics](https://codebasics.io/)
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 - [pyimagesearch](https://pyimagesearch.com/)
+- [Rubik's Code](https://rubikscode.net/)
 
 ### Artical
 
