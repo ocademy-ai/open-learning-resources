@@ -59,6 +59,11 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
 - [pathmind - A.I. Wiki](https://wiki.pathmind.com/)
 
+### Academic
+
+- [Paperspace Blog](https://blog.paperspace.com/)
+- [Paper with code](https://paperswithcode.com/)
+
 ### Book
 
 - [GitHub - ajaymache/machine-learning-yearning: Machine Learning Yearning book by 🅰️𝓷𝓭𝓻𝓮𝔀 🆖](https://github.com/ajaymache/machine-learning-yearning)
