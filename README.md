@@ -95,7 +95,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [pyimagesearch](https://pyimagesearch.com/)
 - [Rubik's Code](https://rubikscode.net/)
 
-### Artical
+### Article
 
 - [MNIST extended](https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/)
 - [qmnist](https://github.com/facebookresearch/qmnist)
