@@ -57,6 +57,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 - [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
 - [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
+- [pathmind - A.I. Wiki](https://wiki.pathmind.com/)
 
 ### Book
 
