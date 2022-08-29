@@ -58,6 +58,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
 - [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
 - [pathmind - A.I. Wiki](https://wiki.pathmind.com/)
+- [GitHub - Accel Brain Code: From Proof of Concept to Prototype](https://github.com/accel-brain/accel-brain-code)
 
 ### Academic
 
