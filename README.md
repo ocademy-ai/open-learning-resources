@@ -134,6 +134,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 - [Open Source Guides](https://opensource.guide/)
 - [choosealicense - an open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.](https://choosealicense.com/)
+- [Explore kandi - A platform that helps developers create applications faster by reusing the right libraries, code snippets, packages, APIs, and cloud functions from over 430 million knowledge items across all repositories, cloud and information sources and applying AI to help the developer choose the right component that fits their need across technology, framework, domain, security, quality, support, license and many other dimensions. ](https://kandi.openweaver.com/)
 
 ## Frontend
 
