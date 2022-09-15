@@ -155,3 +155,4 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
 - [AltexSoft - is a Travel and Hospitality Technology Consulting company](https://www.altexsoft.com/)
+- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
