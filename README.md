@@ -5,6 +5,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Python
 
 - [GitHub - trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.](https://github.com/trekhleb/learn-python)
+- [GitHub - Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.](https://github.com/Asabeneh/30-Days-Of-Python)
+- [GitHub - microsoft/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/microsoft/c9-python-getting-started)
 - [py4e - building a set of free materials, lectures, book and assignments to help students learn how to program in Python.](https://www.py4e.com/)
 - [GitHub - huangsam/ultimate-python: Ultimate Python study guide for newcomers and professionals alike.](https://github.com/huangsam/ultimate-python)
 - [GitHub - satwikkansal/wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
@@ -13,6 +15,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - jerry-git/learn-python3: Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3)
 - [python-guide](https://docs.python-guide.org/)
 - [realpython - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.](https://realpython.com/)
+- [GitHub - Pierian-Data/Complete-Python-3-Bootcamp: Course Files for Complete Python 3 Bootcamp Course on Udemy](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 
 ## Data Science & Engineering
 
