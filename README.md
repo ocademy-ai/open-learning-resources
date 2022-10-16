@@ -32,6 +32,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python](https://github.com/ujjwalkarn/DataSciencePython)
 * [GitHub - andkret/Cookbook: The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
+* [Data Flair - Free Online Courses from Industry Experts](https://data-flair.training/)
 
 ## Machine Learning
 
