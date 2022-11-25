@@ -63,21 +63,32 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [AI Campus - The learning platform for artificial intelligence](https://ki-campus.org/)
 - [pathmind - A.I. Wiki](https://wiki.pathmind.com/)
 - [GitHub - Accel Brain Code: From Proof of Concept to Prototype](https://github.com/accel-brain/accel-brain-code)
+- [GitHub - ageron/handson-ml2: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.](https://github.com/ageron/handson-ml2)
+- [GitHub - kmario23/deep-learning-drizzle: Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!](https://github.com/kmario23/deep-learning-drizzle)
+- [GitHub - girafe-ai/ml-course: Open Machine Learning course](https://github.com/girafe-ai/ml-course)
+
+### Projects
+
+- [GitHub - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [GitHub - RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+- [GitHub - rhiever/Data-Analysis-and-Machine-Learning-Projects: Repository of teaching materials, code, and data for my data analysis and machine learning projects.](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+- [GitHub - Spandan-Madan/DeepLearningProject: An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.](https://github.com/Spandan-Madan/DeepLearningProject)
 
 ### Academic
 
 - [Paperspace Blog](https://blog.paperspace.com/)
 - [Paper with code](https://paperswithcode.com/)
 
-### Book
+### Books
 
 - [GitHub - ajaymache/machine-learning-yearning: Machine Learning Yearning book by 🅰️𝓷𝓭𝓻𝓮𝔀 🆖](https://github.com/ajaymache/machine-learning-yearning)
 - [Deep Learning by I. Goodfellow, Y. Bengio and A. Courville](https://www.deeplearningbook.org/)
 - [Michael Nielsen's online book on Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
+- [GitHub - janishar/mit-deep-learning-book-pdf: MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 
-### Online course
+### Online courses
 
 - [University of Illinois, Spring 2021 CS 498 Introduction to Deep Learning](https://slazebni.cs.illinois.edu/spring21/)
 - [InsideAIML](https://insideaiml.com/)
@@ -110,6 +121,18 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Embedding Projector](http://projector.tensorflow.org/)
 - [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 - [Visualizing Central Limit Theorem](https://clt-streamlit-heroku.herokuapp.com/)
+- [GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
+
+### ML Ops
+
+- [GitHub - Azure/MachineLearningNotebooks: Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft](https://github.com/Azure/MachineLearningNotebooks)
+
+### Others
+
+- [GitHub - rasbt/python-machine-learning-book: The &quot;Python Machine Learning (1st edition)&quot; book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
+- [GitHub - TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials: A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials.](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+- [GitHub - ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [GitHub - dive-into-machine-learning/dive-into-machine-learning: Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)](https://github.com/dive-into-machine-learning/dive-into-machine-learning)
 
 ## Dataset
 
