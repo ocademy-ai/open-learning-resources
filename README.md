@@ -66,12 +66,25 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - ageron/handson-ml2: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.](https://github.com/ageron/handson-ml2)
 - [GitHub - kmario23/deep-learning-drizzle: Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!](https://github.com/kmario23/deep-learning-drizzle)
 - [GitHub - girafe-ai/ml-course: Open Machine Learning course](https://github.com/girafe-ai/ml-course)
+- [GitHub - CS583: Deep Learning](https://github.com/wangshusen/DeepLearning)
+- [GitHub - Deep Learning](https://github.com/hhaji/Deep-Learning)
+
 
 
 ### MIT-licensed Deep Learning
 - [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
 - [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
 - [MIT 6874](https://github.com/mit6874/mit6874.github.io)
+- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20)
+- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1)
+- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning)
+- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation)
+- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material)
+
+
+### Exams
+- [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
+
 
 ### Projects
 
