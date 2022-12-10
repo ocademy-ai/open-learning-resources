@@ -67,6 +67,12 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - kmario23/deep-learning-drizzle: Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!](https://github.com/kmario23/deep-learning-drizzle)
 - [GitHub - girafe-ai/ml-course: Open Machine Learning course](https://github.com/girafe-ai/ml-course)
 
+
+### MIT-licensed Deep Learning
+- [Stanford DL exercises](https://github.com/amaas/stanford_dl_ex)
+- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
+
+
 ### Projects
 
 - [GitHub - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
