@@ -69,9 +69,9 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 
 ### MIT-licensed Deep Learning
-- [Stanford DL exercises](https://github.com/amaas/stanford_dl_ex)
+- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
 - [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
-
+- [MIT 6874](https://github.com/mit6874/mit6874.github.io)
 
 ### Projects
 
