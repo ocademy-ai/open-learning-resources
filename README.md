@@ -71,16 +71,15 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 
 
-### MIT-licensed Deep Learning
-- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
-- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
-- [MIT 6874](https://github.com/mit6874/mit6874.github.io)
-- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20)
-- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1)
-- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning)
-- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation)
-- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material)
-
+### Deep Learning
+- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex) | MIT
+- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
+- [MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
+- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
+- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1) | MIT
+- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | MIT
+- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
+- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material) | MIT
 
 ### Exams
 - [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
