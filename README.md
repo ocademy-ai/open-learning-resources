@@ -72,14 +72,24 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 
 ### Deep Learning
-- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex) | MIT
-- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
-- [MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
-- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
-- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1) | MIT
-- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | MIT
-- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
-- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material) | MIT
+- [GitHub - Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex) | MIT
+- [GitHub - TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
+- [GitHub - MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
+- [GitHub - About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
+- [GitHub - cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1) | cc-by
+- [GitHub - MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | MIT
+- [GitHub - Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
+- [GitHub - cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material) | MIT
+- [GitHub - 2018-dlsl](https://github.com/telecombcn-dl/2018-dlsl) | MIT
+- [GitHub - cs236781](https://github.com/vistalab-technion/cs236781) | GPL
+- [GitHub - ciml](https://github.com/hal3/ciml/) | GPL
+- [GitHub - t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) | Apache
+- [GitHub - berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) | Apache
+- [GitHub - cs236605](https://github.com/vistalab-technion/cs236605) | GPL
+- [GitHub - stats385](https://github.com/stats385/stats385.github.io) | BSD
+- [GitHub - MIT - introtodeeplearning.com](https://github.com/aamini/introtodeeplearning) | BSD
+
+
 
 ### Exams
 - [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
@@ -130,6 +140,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Hugo Larochelle](https://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [NYU Deep Learning Course](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+- [MIT introtodeeplearning](http://introtodeeplearning.com/)
 
 ### Article
 
