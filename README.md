@@ -72,19 +72,27 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 
 ### MIT-licensed Deep Learning
-- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
-- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
-- [MIT 6874](https://github.com/mit6874/mit6874.github.io)
-- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20)
-- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1)
-- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning)
-- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation)
-- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material)
+- [GitHub - Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
+- [GitHub - TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
+- [GitHub - TensorFlow Book]( https://github.com/BinRoot/TensorFlow-Book)
+- [GitHub - MIT 6874](https://github.com/mit6874/mit6874.github.io)
+- [GitHub - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20)
+- [GitHub - cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1)
+- [GitHub - MIT deep learning](https://github.com/lexfridman/mit-deep-learning)
+- [GitHub - Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation)
+- [GitHub - cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material)
+- [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [GitHub - dl-course](https://github.com/ddtm/dl-course)
+- [GitHub - Apache - t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
+- [GitHub - cs231n](https://cs231n.github.io/)
+- [GitHub - ciml](http://ciml.info/)
+- [GitHub - Apache + CC - Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization)
+- [CMU11-785](https://github.com/Eurus-Holmes/CMU11-785)
+- [UvA Deep Learning Course](https://github.com/uvadlc/uvadlc.github.io) | Apache 2.0
 
 
 ### Exams
 - [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
-
 
 ### Projects
 
@@ -106,6 +114,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Hastie, Tibshirani and Friedman, Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [David Forsyth's Applied Machine Learning textbook draft](http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/learning-book-19-April-18.pdf)
 - [GitHub - janishar/mit-deep-learning-book-pdf: MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
+- [GitHub - interpretable-ml-book](https://github.com/christophM/interpretable-ml-book)
 
 ### Online courses
 
@@ -128,6 +137,9 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Analytics Vidhya Data Science Immersive Bootcamp](https://bootcamp.analyticsvidhya.com/)
 - [pyimagesearch](https://pyimagesearch.com/)
 - [Rubik's Code](https://rubikscode.net/)
+- [Hugo Larochelle](https://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [NYU Deep Learning Course](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
 
 ### Article
 
@@ -141,6 +153,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 - [Visualizing Central Limit Theorem](https://clt-streamlit-heroku.herokuapp.com/)
 - [GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
+- [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [GitHub - visulizing-interpreting-cnn](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
 
 ### ML Ops
 
