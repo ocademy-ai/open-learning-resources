@@ -71,25 +71,15 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 
 
-### MIT-licensed Deep Learning
-- [GitHub - Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex)
-- [GitHub - TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples)
-- [GitHub - TensorFlow Book]( https://github.com/BinRoot/TensorFlow-Book)
-- [GitHub - MIT 6874](https://github.com/mit6874/mit6874.github.io)
-- [GitHub - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20)
-- [GitHub - cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1)
-- [GitHub - MIT deep learning](https://github.com/lexfridman/mit-deep-learning)
-- [GitHub - Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation)
-- [GitHub - cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material)
-- [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-- [GitHub - dl-course](https://github.com/ddtm/dl-course)
-- [GitHub - Apache - t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
-- [GitHub - cs231n](https://cs231n.github.io/)
-- [GitHub - ciml](http://ciml.info/)
-- [GitHub - Apache + CC - Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization)
-- [CMU11-785](https://github.com/Eurus-Holmes/CMU11-785)
-- [UvA Deep Learning Course](https://github.com/uvadlc/uvadlc.github.io) | Apache 2.0
-
+### Deep Learning
+- [Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex) | MIT
+- [TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
+- [MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
+- [About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
+- [cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1) | MIT
+- [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | MIT
+- [Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
+- [cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material) | MIT
 
 ### Exams
 - [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
