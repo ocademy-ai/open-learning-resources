@@ -80,7 +80,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - cc licensed - galaxyproject](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/slides.html#1) | cc-by
 - [GitHub - MIT deep learning](https://github.com/lexfridman/mit-deep-learning) | MIT
 - [GitHub - Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
-- [GitHub - cc + MIT, Galaxy Training Material](https://github.com/galaxyproject/training-material) | MIT
+- [GitHub - Galaxy Training Material](https://github.com/galaxyproject/training-material) | cc-by and MIT
 - [GitHub - 2018-dlsl](https://github.com/telecombcn-dl/2018-dlsl) | MIT
 - [GitHub - cs236781](https://github.com/vistalab-technion/cs236781) | GPL
 - [GitHub - ciml](https://github.com/hal3/ciml/) | GPL
