@@ -68,11 +68,12 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - girafe-ai/ml-course: Open Machine Learning course](https://github.com/girafe-ai/ml-course)
 - [GitHub - CS583: Deep Learning](https://github.com/wangshusen/DeepLearning)
 - [GitHub - Deep Learning](https://github.com/hhaji/Deep-Learning)
+- [Kaggle learn](https://www.kaggle.com/learn)
+- [GitHub - awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 
 
 ### Deep Learning
-- [GitHub - Stanford DL exercises  (obsolete)](https://github.com/amaas/stanford_dl_ex) | MIT
 - [GitHub - TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
 - [GitHub - MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
 - [GitHub - About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
@@ -141,6 +142,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [NYU Deep Learning Course](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
 - [MIT introtodeeplearning](http://introtodeeplearning.com/)
+- [DS-GA 1008 · SPRING 2021 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/NYU-DLSP21/)
 
 ### Article
 
