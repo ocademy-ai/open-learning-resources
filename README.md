@@ -150,16 +150,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [MNIST extended](https://awaywithideas.com/mnist-extended-a-dataset-for-semantic-segmentation-and-object-detection/)
 - [qmnist](https://github.com/facebookresearch/qmnist)
 
-### Visualization
-
-- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
-- [Embedding Projector](http://projector.tensorflow.org/)
-- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
-- [Visualizing Central Limit Theorem](https://clt-streamlit-heroku.herokuapp.com/)
-- [GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
-- [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-- [GitHub - visulizing-interpreting-cnn](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
-
 ### ML Ops
 
 - [GitHub - Azure/MachineLearningNotebooks: Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft](https://github.com/Azure/MachineLearningNotebooks)
@@ -193,6 +183,16 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Open Data Community | Join the Movement to Change the World!](https://data.world/community/open-community/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 - [Knoema - World and regional statistics, national data, maps, rankings](https://knoema.com/atlas/sources)
+
+## Visualization
+
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+- [Embedding Projector](http://projector.tensorflow.org/)
+- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+- [Visualizing Central Limit Theorem](https://clt-streamlit-heroku.herokuapp.com/)
+- [GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
+- [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [GitHub - visulizing-interpreting-cnn](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
 
 ## Open Source
 
