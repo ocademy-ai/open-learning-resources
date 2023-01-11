@@ -71,9 +71,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Kaggle learn](https://www.kaggle.com/learn)
 - [GitHub - awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-
-
 ### Deep Learning
+
 - [GitHub - TensorFlow Examples]( https://github.com/aymericdamien/TensorFlow-Examples) | MIT
 - [GitHub - MIT 6874](https://github.com/mit6874/mit6874.github.io) | MIT
 - [GitHub - About STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) | MIT
@@ -91,9 +90,8 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - MIT - introtodeeplearning.com](https://github.com/aamini/introtodeeplearning) | BSD
 - [GitHub - Deep-Learning-UIUC](https://github.com/guptakhil/Deep-Learning-UIUC) | MIT
 
-
-
 ### Exams
+
 - [machine-learning-exams](https://github.com/fatosmorina/machine-learning-exams)
 
 ### Projects
