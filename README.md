@@ -82,7 +82,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - Deep learning presentation materials](https://github.com/mmheydari97/deeplearning-presentation) | MIT
 - [GitHub - Galaxy Training Material](https://github.com/galaxyproject/training-material) | cc-by and MIT
 - [GitHub - 2018-dlsl](https://github.com/telecombcn-dl/2018-dlsl) | MIT
-- [MIT Deep Learning 6.S191](http://introtodeeplearning.com/) | MIT
 - [GitHub - cs236781](https://github.com/vistalab-technion/cs236781) | GPL
 - [GitHub - ciml](https://github.com/hal3/ciml/) | GPL
 - [GitHub - t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) | Apache
