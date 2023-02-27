@@ -71,6 +71,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [Kaggle learn](https://www.kaggle.com/learn)
 - [GitHub - awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [GitHub - Machine Learning Complete](https://github.com/Nyandwi/machine_learning_complete/) | MIT
+- [GitHub - microsoft/ai-edu: AI education materials for Chinese students, teachers and IT professionals.](https://github.com/microsoft/ai-edu) | MIT, NC
 
 ### Deep Learning
 
