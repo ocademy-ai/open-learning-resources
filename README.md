@@ -72,6 +72,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [GitHub - Machine Learning Complete](https://github.com/Nyandwi/machine_learning_complete/) | MIT
 - [GitHub - microsoft/ai-edu: AI education materials for Chinese students, teachers and IT professionals.](https://github.com/microsoft/ai-edu) | MIT, NC
+- [GitHub - RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
 ### Deep Learning
 
@@ -99,9 +100,9 @@ A curated list of free/open source resources for you to learn Computer Science.
 ### Projects
 
 - [GitHub - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-- [GitHub - RedditSota/state-of-the-art-result-for-machine-learning-problems: This repository provides state of the art (SoTA) results for all machine learning problems.](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [GitHub - rhiever/Data-Analysis-and-Machine-Learning-Projects: Repository of teaching materials, code, and data for my data analysis and machine learning projects.](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 - [GitHub - Spandan-Madan/DeepLearningProject: An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.](https://github.com/Spandan-Madan/DeepLearningProject)
+- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
 
 ### Academic
 
@@ -219,4 +220,3 @@ A curated list of free/open source resources for you to learn Computer Science.
 
 - [freeCodeCamp - to help people learn to code for free](https://www.freecodecamp.org/)
 - [AltexSoft - is a Travel and Hospitality Technology Consulting company](https://www.altexsoft.com/)
-- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
