@@ -92,6 +92,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - stats385](https://github.com/stats385/stats385.github.io) | BSD
 - [GitHub - MIT - introtodeeplearning.com](https://github.com/aamini/introtodeeplearning) | BSD
 - [GitHub - Deep-Learning-UIUC](https://github.com/guptakhil/Deep-Learning-UIUC) | MIT
+- [GitHub - yandexdataschool - Practical_DL](https://github.com/yandexdataschool/Practical_DL) | MIT
 
 ### Exams
 
