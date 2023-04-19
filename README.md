@@ -225,3 +225,4 @@ A curated list of free/open source resources for you to learn Computer Science.
 ## Math
 
 - [Matrix calculator](https://matrixcalc.org/slu.html)
+- [Symbolab matrix calculator](https://www.symbolab.com/solver/matrix-calculator)
