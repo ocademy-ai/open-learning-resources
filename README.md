@@ -195,6 +195,9 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - timzhang642/3D-Machine-Learning: A resource repository for 3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
 - [GitHub - CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 - [GitHub - visulizing-interpreting-cnn](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
+- [GitHub - ganlab](<https://poloclub.github.io/ganlab>)
+- [GitHub - cnn-explainer](https://poloclub.github.io/cnn-explainer)
+
 
 ## Open Source
 
