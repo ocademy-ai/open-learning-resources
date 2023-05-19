@@ -33,6 +33,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - andkret/Cookbook: The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 * [Data Flair - Free Online Courses from Industry Experts](https://data-flair.training/)
+* [GitHub - rougier/numpy-100: 100 numpy exercises (with solutions)](https://github.com/rougier/numpy-100)
 
 ## Machine Learning
 
@@ -55,7 +56,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - instillai/machine-learning-course: Machine Learning Course with Python:](https://github.com/instillai/machine-learning-course)
 - [GitHub - ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [GitHub - eugeneyan/applied-ml: 📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.](https://github.com/eugeneyan/applied-ml)
-- [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
+- [GitHub - kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)``
 - [GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [mlbookcamp-code/course-zoomcamp at master · alexeygrigorev/mlbookcamp-code · GitHub](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Introduction: Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
@@ -197,7 +198,6 @@ A curated list of free/open source resources for you to learn Computer Science.
 - [GitHub - visulizing-interpreting-cnn](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
 - [GitHub - ganlab](<https://poloclub.github.io/ganlab>)
 - [GitHub - cnn-explainer](https://poloclub.github.io/cnn-explainer)
-
 
 ## Open Source
 
