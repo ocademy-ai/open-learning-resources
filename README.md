@@ -34,6 +34,7 @@ A curated list of free/open source resources for you to learn Computer Science.
 * [GitHub - guipsamora/pandas_exercises: Practice your pandas skills!](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)
 * [Data Flair - Free Online Courses from Industry Experts](https://data-flair.training/)
 * [GitHub - rougier/numpy-100: 100 numpy exercises (with solutions)](https://github.com/rougier/numpy-100)
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
 ## Machine Learning
 
